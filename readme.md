@@ -1,5 +1,4 @@
- #Crystallocrafty
- Convert any known protein crystal structure to a crochet pattern. 
+ Crystallocrafty - Convert any known protein crystal structure to a crochet pattern. 
  
  Science Hack Day Boston Entry
  Created by Brendan Colon and Jessica Polka
